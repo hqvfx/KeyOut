@@ -1,3 +1,5 @@
+![alt text](https://github.com/hqvfx/KeyOut/blob/main/keyout.png)
+
 **HQ VFX KeyOut - AI Powered Desktop Tool for Roto and Keying**
 
 **Overview:**
